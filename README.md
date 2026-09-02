@@ -5,7 +5,7 @@ Trépied obligatoire sur le smartphone pour une meilleure expérience.
 
 ## Fonctions principales
 
-- Capture manuelle avec reglage ISO basse et temps de pose jusqu'à 16 secondes.
+- Capture manuelle avec ISO bas réglable et temps de pose jusqu’à 16 secondes.
 - Mode chasse éclair avec détection de hausse lumineuse à deux niveaux.
 - Selection des objectifs arriere, dont ultra grand-angle à l'infini.
 - Capture JPG, RAW ou JPG + RAW selon les capacités de l'objectif.
